@@ -11,6 +11,7 @@ a {
   text-decoration: none;
 }
 
-* {
-  box-sizing: border-box;
+main {
+  padding-top: 21vh;
+  text-align: center;
 }
